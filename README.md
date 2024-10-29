@@ -1,24 +1,22 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
+<h1 align="center">Hi 👋, I'm Narayan Pandey</h1>
 <h3 align="center">I Enjoy Creating Things That Live On The Internet 😉</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🔭 I’m currently working on <a href="https://adityayadav-dev.netlify.app" target="_blank">Portfolio</a>
+- 🔭 I’m currently working on <a href="" target="_blank">Portfolio</a>
 
 - 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **ay5480620@gmail.com**
+- 📫 How to reach me **npandey1031@gmail.com**
 
-- ⚡ Fun fact **I Think I Am Funny**
+
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mraditya1999)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mraditya1999)
-[![Codepen](https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white)](https://codepen.io/mraditya1999)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.adityayadav.live)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narayan-pandey-4b6b3b235)
+
 
 # 💻 Tech Stack:
 
@@ -31,6 +29,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mraditya1999&theme=dracula&hide_border=true)
 
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
