@@ -2,7 +2,7 @@
 <h3 align="center">I Enjoy Creating Things That Live On The Internet 😉</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🔭 I’m currently working on <a href="" target="https://snapsafegallery.netlify.app/">SnapSafe</a>
+- 🔭 I’m currently working on <a href="https://snapsafegallery.netlify.app/" target="blank">SnapSafe</a>
 
 - 🌱 I’m currently learning **React Js amd Springboot**
 
