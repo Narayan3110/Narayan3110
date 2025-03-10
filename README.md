@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Narayan Pandey</h1>
 <h3 align="center">I Enjoy Creating Things That Live On The Internet 😉</h3>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 # 💫 About Me:
 🔭 I’m currently working on<a href="https://snapsafegallery.netlify.app/" target="blank">SnapSafe</a>🌱 I’m currently learning React , SpringBoot <br>💬 Ask me about **FullStack Development**<br>📫 How to reach me **npandey1031@gmail.com**
