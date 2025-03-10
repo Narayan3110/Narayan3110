@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on<a href="https://snapsafegallery.netlify.app/" target="blank">SnapSafe</a><br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning React , SpringBoot <br>💬 Ask me about **FullStack Development**<br>📫 How to reach me **npandey1031@gmail.com**
+🔭 I’m currently working on<a href="https://snapsafegallery.netlify.app/" target="blank">SnapSafe</a>🌱 I’m currently learning React , SpringBoot <br>💬 Ask me about **FullStack Development**<br>📫 How to reach me **npandey1031@gmail.com**
 
 
 ## 🌐 Socials:
